@@ -1,6 +1,6 @@
 {
 	"name": "club-hub-core",
-	"version": "0.0.1",
+	"version": "0.0.199",
 	"description": "JavaScript lib for the Clubhub API and client applications",
 	"main": "index.js",
 	"typings": "dist/index.d.ts",
