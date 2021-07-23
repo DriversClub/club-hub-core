@@ -35,7 +35,7 @@ namespace Event {
 		location?: Location.Model
 		groupID?: Types.ObjectId
 		calendarID?: Types.ObjectId
-		calendarEventID?: Types.ObjectId
+		calendarEventID?: string
 		calendarIDs?: Types.ObjectId[]
 		images?: Image.Model[]
 		image?: Image.Model
