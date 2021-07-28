@@ -22,6 +22,7 @@ namespace Event {
 
 	export interface Model {
 		_id?: Types.ObjectId
+		isDraft?: boolean
 		remoteID?: string
 		name?: string
 		start?: Date

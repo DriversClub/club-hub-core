@@ -8,6 +8,7 @@ import Image from './subModels/shared/image';
 declare namespace Event {
     interface Model {
         _id?: Types.ObjectId;
+        isDraft?: boolean;
         remoteID?: string;
         name?: string;
         start?: Date;

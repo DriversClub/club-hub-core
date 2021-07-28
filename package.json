@@ -1,6 +1,6 @@
 {
 	"name": "club-hub-core",
-	"version": "0.0.199",
+	"version": "0.0.202",
 	"description": "JavaScript lib for the Clubhub API and client applications",
 	"main": "index.js",
 	"typings": "dist/index.d.ts",
@@ -36,7 +36,7 @@
 		"@types/mocha": "^5.2.6",
 		"@types/mongoose": "^5.5.32",
 		"mocha": "^6.1.4",
-		"mongoose": "5.4.19",
+		"mongoose": "^5.4.19",
 		"typescript": "^3.5.1"
 	}
 }
