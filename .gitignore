@@ -3,6 +3,7 @@ node_modules
 
 # Ignoring the package lock until the diff'ing gets resolved
 package-lock.json
+yarn.lock
 
 # Ignore Transpiled Tests
 dist/test
