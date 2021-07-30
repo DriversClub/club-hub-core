@@ -64,6 +64,8 @@ declare namespace Event {
         _id?: Types.ObjectId;
         userID: Types.ObjectId | User.Model | null;
         name: string;
+        email?: string;
+        phoneNumber?: string;
         checkedIn?: boolean;
         paid?: boolean;
         golfCart?: boolean;
